@@ -1,1 +1,2 @@
-This repository is no longer maintained, the code has been integrated into [cellbin2](https://github.com/STOmics/cellbin2).
+Forked from https://github.com/STOmics/udi/
+The code has also been integrated into cellbin2 (https://github.com/STOmics/cellbin2)
